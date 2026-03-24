@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+  background: black;
+}
+
+canvas {
+  display: block;
+}
+
+#tooltip {
+  position: absolute;
+  display: none;
+  background: rgba(0,0,0,0.85);
+  padding: 12px;
+  border-radius: 12px;
+  color: white;
+  text-align: center;
+  pointer-events: none;
+  transform: translate(-50%, -120%);
+  backdrop-filter: blur(6px);
+  font-family: sans-serif;
+  min-width: 140px;
+}
+
+#tooltip img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 6px;
+}
+
+#tooltip h3 {
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+#tooltip p {
+  font-size: 12px;
+  opacity: 0.7;
+}
