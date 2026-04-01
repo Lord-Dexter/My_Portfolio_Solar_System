@@ -1,43 +1,43 @@
 export const projects = [{
     name: "Web_scraping_with_BeautifulSoup",
     github: "https://github.com/Lord-Dexter/Web_scraping_with_BeautifulSoup",
-    color: 0x4ecdc4,
+    color: 0x372432,
     orbitRadius: 10,
-    size: 1.2,
-    speed: 0.001
+    size: 1.1,
+    speed: 0.004
 }, {
     name: "Data_Cleaning_in_SQL",
     github: "https://github.com/Lord-Dexter/Data_Cleaning_in_SQL",
-    color: 0x4ecdc4,
+    color: 0x177b95,
     orbitRadius: 13,
     size: 1.2,
-    speed: 0.001
+    speed: 0.0033
 }, {
     name: "Data_Analysis_in_Excel",
     github: "https://github.com/Lord-Dexter/Data_Analysis_in_Excel",
-    color: 0x4ecdc4,
+    color: 0x8dea97,
     orbitRadius: 16,
-    size: 1.2,
-    speed: 0.001
+    size: 1.3,
+    speed: 0.003
 }, {
     name: "Data_Analysis_in_PowerBI",
-    github: "Data_Analysis_in_PowerBI",
-    color: 0x4ecdc4,
-    orbitRadius: 19,
-    size: 1.2,
-    speed: 0.001
+    github: "https://github.com/Lord-Dexter/Data_Analysis_in_PowerBI",
+    color: 0x2cc6ad,
+    orbitRadius: 20,
+    size: 1.3,
+    speed: 0.0027
 }, {
     name: "Data_Cleaning_in_Pandas",
     github: "https://github.com/Lord-Dexter/Data_Cleaning_in_Pandas",
-    color: 0x4ecdc4,
-    orbitRadius: 21,
-    size: 1.2,
-    speed: 0.001
+    color: 0xad9851,
+    orbitRadius: 24,
+    size: 1.5,
+    speed: 0.0025
 }, {
     name: "Binary_Representation_in_Rust",
     github: "https://github.com/Lord-Dexter/Binary_Representation_in_Rust",
-    color: 0x4ecdc4,
-    orbitRadius: 24,
-    size: 1.2,
-    speed: 0.001
+    color: 0xebbe14,
+    orbitRadius: 29,
+    size: 1.6,
+    speed: 0.002
 }]
